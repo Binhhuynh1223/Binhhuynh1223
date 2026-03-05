@@ -10,7 +10,7 @@ I'm Bình, a software developer based in Vietnam. I specialize in full-stack web
 
 ## 🧰 &nbsp;My toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,php,mongodb,expressjs,nodejs,vue,vite,mysql,postman,git,github,dart,flutter,python,tensorflow,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,php,mongodb,expressjs,nodejs,vue,vite,mysql,postman,git,github,dart,flutter,python,tensorflow,pytorch,flask)](https://skillicons.dev)
 &nbsp;
 
 
